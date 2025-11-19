@@ -1,0 +1,10 @@
+name	lower left x (um)	lower left y (um)	upper right x (um)	upper right y (um)	polygon count	md5sum
+Peekskill	-9644	-9880	42144	88173	217213154	vrfknksnufatd3l67mgz008j631dhdo7
+Tomahawk	-38979	-43813	99989	96022	448661209	8hxfjgygp1qdr881qsm5j8wcfg8enq4d
+Beacon	-99852	-72604	94128	32371	39128330	2yyzci6l6kftrdg0uej9tfa93z88e72u
+Oscawana	-81925	-63942	72827	85165	118164072	56kp8j9izb8zq2hvott1vbsm6x30002p
+Round	-25955	-56149	67974	21133	113736575	yun42qq4vz8v0s0ect00f15kbpfcrm5m
+Glenmere	-79879	-9119	61589	81752	209115176	w70yhe9cajt705tucz8y1q0yp1m51954
+Chadwick	-32608	-10151	87678	72734	260336006	t10yb8gaepnulmvo7vfj7jfm2dnvbuwh
+Dutchess	-81805	-60325	41836	330	293174995	5txm4wr6oqx80b78wfze28hdtcuv0bic
+Walton	-99812	-89634	27849	76922	29003806	gbph8bnrahhmqsfi1wmh3zu141m63hlc
